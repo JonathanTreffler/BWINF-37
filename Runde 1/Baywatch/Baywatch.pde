@@ -1,4 +1,3 @@
-//BWINF 37
 String[] textdatei;
 String[] Karte_Liste;
 String[] Vogel_Liste;
